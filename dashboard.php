@@ -206,7 +206,7 @@ $username = $_SESSION["username"];
 
             <p>
                 You have successfully logged in.
-                Nothing to see here.
+                Nothing to see here, hehe.
             </p>
 
             <div class="status">

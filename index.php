@@ -29,6 +29,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
         $user_id,
         $db_username,
         $db_password
+        
     );
 
     if (mysqli_stmt_fetch($stmt) &&
