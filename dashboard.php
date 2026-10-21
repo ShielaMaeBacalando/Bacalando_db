@@ -187,7 +187,7 @@ $username = $_SESSION["username"];
 
         <div class="dashboard-illustration">
             <img
-                src="https://placehold.co/400x300/E7EEF5/52799C?text=Welcome"
+                src="CHOOKIEPIC.jpeg"
                 alt="Welcome illustration in soft blue"
             >
 
